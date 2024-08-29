@@ -1,0 +1,2 @@
+C:\Users\tony\source\repos\reactdemo1\obj\Debug\reactdemo1.esproj.CoreCompileInputs.cache
+C:\Users\tony\source\repos\reactdemo1-oud\obj\Debug\reactdemo1.esproj.CoreCompileInputs.cache
